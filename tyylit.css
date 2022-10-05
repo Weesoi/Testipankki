@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+body {
+  color: white;
+}
+h1 { font-size: 20px; }
+
+	p { font-size: 12px;
+color: lightgray; 	}
+	
+.dotted {border-style: dotted; }
+	
+.dotted {width: 100px; 
+}
+.dotted {height: 100px;
+}
+.dotted {padding: 2px;
+}
+
+	
+	
